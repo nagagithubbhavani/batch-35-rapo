@@ -1,2 +1,15 @@
 Hello,welcome to GitHub 
+<<<<<<< HEAD
 Hello
+=======
+heyy 
+i am updating the code from my system
+the time of updation 
+3:20 
+Hello ra chiti
+i am very glad to do these project reyy
+heyyy
+hiii 
+helloo
+19:10 P.M
+>>>>>>> 2f0ce9f6496153053c3af1addca6bd7c453b4a62
